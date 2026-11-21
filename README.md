@@ -6,7 +6,7 @@ Project Overview
 The dashboard analyzes a sample dataset containing 500 transactions from 2024.
 The objective is to transform transactional data into meaningful business insights and provide a clear overview of revenue, costs, profitability, and sales performance.
 Dashboard Preview
-![Financial & Business Performance Dashboard](images/dashboard-preview.png)
+![Financial & Business Performance Dashboard](Financial_Performance_Dashboard.png)
 Key Performance Indicators
 KPI	Result
 Total Revenue	€1.07M
@@ -58,10 +58,10 @@ Profit Margin (%) =
 DIVIDE([Total Profit], [Total Revenue], 0)
 ```
 Project Files
-`01_Financial_Business_Performance_Analysis.pbix` — Power BI dashboard file.
+`Financial & Business Performance Analysis- 01.pbix` — Power BI dashboard file.
 `Financial_Performance_Data.xlsx` — Sample dataset.
 `Financial_Performance_Dashboard.pdf` — PDF export of the dashboard.
-`images/dashboard-preview.png` — Dashboard screenshot.
+`Financial_Performance_Dashboard.png` — Dashboard preview image.
 Skills Demonstrated
 Data preparation and transformation
 Financial KPI calculations using DAX
